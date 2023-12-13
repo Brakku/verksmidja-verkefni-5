@@ -8,3 +8,5 @@ Hér er síning af virkni:
 
 {vítjó vantar}
 
+mind sem sínir web hooks að virka:
+![image](https://github.com/Brakku/verksmidja-verkefni-5/assets/88351016/39a91d5b-e38a-4308-bd39-3fa04b8fd1a0)
