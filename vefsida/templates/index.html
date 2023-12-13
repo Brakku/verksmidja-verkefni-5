@@ -1,0 +1,21 @@
+<head>
+    <script>
+        function locationreload() {
+            location.reload();
+        }
+        setInterval(locationreload, 3000);
+    </script>
+</head>
+
+<body>
+
+    <p>works {{ myexample }}</p>
+    <p>{{datai}}</p>
+    
+    {% if datai > 50 %}
+        <p>alert</p>
+        
+    {% endif %}
+    
+
+</body>
